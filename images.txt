@@ -1,2 +1,1 @@
-snowdreamtech/frpc
-snowdreamtech/frps
+itzg/minecraft-server
