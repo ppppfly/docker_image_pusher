@@ -1,3 +1,1 @@
-itzg/minecraft-server
-got­son/​komga
-deluan/navidrome
+gotson/komga
