@@ -1,8 +1,5 @@
-gotson/komga:1.14.1
+gotson/komga:1.15.1
 gotson/komga:latest
-
-deluan/navidrome:0.53.3
-deluan/navidrome:latest
 
 itzg/minecraft-server:java21
 itzg/minecraft-server:latest
