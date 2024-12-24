@@ -1,1 +1,2 @@
-rappdw/ebook-convert
+hisatri/lyricapi:1.5.7
+hisatri/lyricapi:latest
