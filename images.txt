@@ -1,2 +1,2 @@
-hisatri/lyricapi:1.5.7
-hisatri/lyricapi:latest
+deluan/navidrome:0.54.2
+deluan/navidrome:latest
