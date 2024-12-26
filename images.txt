@@ -1,2 +1,2 @@
-deluan/navidrome:0.54.2
-deluan/navidrome:latest
+xhofe/alist:v3.41.0
+xhofe/alist:latest
