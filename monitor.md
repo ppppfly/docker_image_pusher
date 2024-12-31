@@ -1,0 +1,1 @@
+- (Jellyfin)[https://hub.docker.com/r/jellyfin/jellyfin/tags]
