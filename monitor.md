@@ -1,5 +1,5 @@
-- [itzg/minecraft-server](https://hub.docker.com/r/itzg/minecraft-server/tags)
-- [gotson/komga](https://hub.docker.com/r/gotson/komga/tags)
-- [deluan/navidrome](https://hub.docker.com/r/deluan/navidrome/tags)
-- [jellyfin/jellyfin](https://hub.docker.com/r/jellyfin/jellyfin/tags)
-- [xhofe/alist](https://hub.docker.com/r/xhofe/alist/tags)
+- [itzg/minecraft-server](https://hub.docker.com/r/itzg/minecraft-server/tags) - latest(12-31)
+- [gotson/komga](https://hub.docker.com/r/gotson/komga/tags) - 1.15.1
+- [deluan/navidrome](https://hub.docker.com/r/deluan/navidrome/tags) - 0.54.3
+- [jellyfin/jellyfin](https://hub.docker.com/r/jellyfin/jellyfin/tags) - 10.10.3
+- [xhofe/alist](https://hub.docker.com/r/xhofe/alist/tags) - v3.41.0
