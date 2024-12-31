@@ -1,2 +1,5 @@
-- (Jellyfin)[https://hub.docker.com/r/jellyfin/jellyfin/tags]
-- [Jellyfin](https://hub.docker.com/r/jellyfin/jellyfin/tags)
+- [itzg/minecraft-server](https://hub.docker.com/r/itzg/minecraft-server/tags)
+- [gotson/komga](https://hub.docker.com/r/gotson/komga/tags)
+- [deluan/navidrome](https://hub.docker.com/r/deluan/navidrome/tags)
+- [jellyfin/jellyfin](https://hub.docker.com/r/jellyfin/jellyfin/tags)
+- [xhofe/alist](https://hub.docker.com/r/xhofe/alist/tags)
