@@ -1,1 +1,2 @@
 - (Jellyfin)[https://hub.docker.com/r/jellyfin/jellyfin/tags]
+- [Jellyfin](https://hub.docker.com/r/jellyfin/jellyfin/tags)
