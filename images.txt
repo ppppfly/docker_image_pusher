@@ -1,1 +1,2 @@
-jellyfin/jellyfin:10.10.3
+deluan/navidrome:0.54.3
+itzg/minecraft-server:latest
