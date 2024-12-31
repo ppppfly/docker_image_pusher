@@ -1,2 +1,1 @@
-itzg/minecraft-server:java21
-itzg/minecraft-server:latest
+jellyfin/jellyfin:10.10.3
