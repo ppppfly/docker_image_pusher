@@ -1,2 +1,2 @@
-deluan/navidrome:0.54.3
-itzg/minecraft-server:latest
+gotson/komga:1.16.0
+itzg/minecraft-server:2024.12.1
