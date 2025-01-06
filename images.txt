@@ -1,2 +1,1 @@
-gotson/komga:1.16.0
-itzg/minecraft-server:2024.12.1
+itzg/minecraft-server:2025.1.0
