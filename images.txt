@@ -1,1 +1,5 @@
-itzg/minecraft-server:2025.1.0
+itzg/minecraft-server:2025.2.0
+xhofe/alist:v3.42.0
+jellyfin/jellyfin:10.10.5
+gotson/komga:1.19.1
+deluan/navidrome:0.54.4
