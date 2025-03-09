@@ -1,5 +1,5 @@
 itzg/minecraft-server:2025.2.1
 xhofe/alist:v3.42.0
 jellyfin/jellyfin:10.10.6
-gotson/komga:1.20.0
+gotson/komga:1.21.1
 deluan/navidrome:0.54.5
