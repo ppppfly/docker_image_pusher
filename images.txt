@@ -3,3 +3,4 @@ xhofe/alist:v3.44.0
 jellyfin/jellyfin:10.10.7
 gotson/komga:1.21.2
 deluan/navidrome:0.55.2
+linuxserver/calibre-web:0.6.24

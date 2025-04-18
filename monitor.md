@@ -3,3 +3,4 @@
 - [deluan/navidrome](https://hub.docker.com/r/deluan/navidrome/tags) - [0.55.2](https://github.com/navidrome/navidrome/tags)
 - [jellyfin/jellyfin](https://hub.docker.com/r/jellyfin/jellyfin/tags) - [10.10.7](https://github.com/jellyfin/jellyfin/tags)
 - [xhofe/alist](https://hub.docker.com/r/xhofe/alist/tags) - [v3.44.0](https://github.com/AlistGo/alist/tags)
+- [linuxserver/calibre-web](https://hub.docker.com/r/linuxserver/calibre-web/tags) - [0.6.24](https://github.com/janeczku/calibre-web/tags)
