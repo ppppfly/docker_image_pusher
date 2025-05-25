@@ -1,4 +1,4 @@
-itzg/minecraft-server:2025.4.2
+itzg/minecraft-server:2025.5.0
 xhofe/alist:v3.44.0
 jellyfin/jellyfin:10.10.7
 gotson/komga:1.21.2
