@@ -1,2 +1,2 @@
-gotson/komga:1.22.0
-xhofe/alist:v3.45.1
+itzg/minecraft-server:2025.6.2
+deluan/navidrome:0.57.0
