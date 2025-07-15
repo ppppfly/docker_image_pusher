@@ -1,2 +1,2 @@
-itzg/minecraft-server:2025.6.2
+gotson/komga:1.22.1
 deluan/navidrome:0.57.0
