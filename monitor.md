@@ -4,3 +4,6 @@
 - [jellyfin/jellyfin](https://hub.docker.com/r/jellyfin/jellyfin/tags) - [10.10.7](https://github.com/jellyfin/jellyfin/tags)
 - [xhofe/alist](https://hub.docker.com/r/xhofe/alist/tags) - [v3.45.1](https://github.com/AlistGo/alist/tags)
 - [linuxserver/calibre-web](https://hub.docker.com/r/linuxserver/calibre-web/tags) - [0.6.24](https://github.com/janeczku/calibre-web/tags)
+- [hectorqin/reader](https://hub.docker.com/r/hectorqin/reader/tags) - [3.2.14](https://github.com/hectorqin/reader/tags)
+- [linzeyi/hivision_idphotos](https://hub.docker.com/r/linzeyi/hivision_idphotos/tags) - [v1.3.1](https://github.com/Zeyi-Lin/HivisionIDPhotos/tags)
+- [fooololo/aipan-netdisk-search](https://hub.docker.com/r/fooololo/aipan-netdisk-search/tags) - latest
