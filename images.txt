@@ -1,1 +1,1 @@
-jasminexzzz/blossom:latest-amd64
+mysql:8.0.31
