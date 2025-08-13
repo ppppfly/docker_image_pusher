@@ -1,1 +1,2 @@
-mysql:8.0.31
+itzg/minecraft-server:2025.8.1
+xhofe/alist:v3.49.0
