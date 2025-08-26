@@ -1,1 +1,2 @@
-xhofe/alist:v3.51.0
+gotson/komga:1.23.2
+linuxserver/calibre-web:0.6.25
