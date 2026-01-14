@@ -1,2 +1,5 @@
-jellyfin/jellyfin:10.11.0
-xhofe/alist:v3.54.0
+itzg/minecraft-server:2026.1.1
+gotson/komga:1.23.6
+deluan/navidrome:0.59.0
+jellyfin/jellyfin:10.11.5
+xhofe/alist:v3.56.0
